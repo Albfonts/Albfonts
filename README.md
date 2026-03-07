@@ -2,13 +2,13 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na FAG (Cascavel, PR), com foco em **desenvolvimento Front-End**.
 
-Iniciei minha jornada em fevereiro de 2026 e estou construindo minha base técnica com o objetivo de trabalhar com **Angular**.
+Iniciei minha jornada em fevereiro de 2026 e estou construindo minha base técnica com o objetivo de trabalhar como **DesenvolvedorFront-End**.
 
 ---
 
 **🎯 Foco atual**
 - Aprendendo HTML, CSS e JavaScript
-- Próximo passo: Angular e TypeScript
+- Próximo passo: TypeScript
 - Meta: primeira vaga como Dev Front-End Jr
 
 ---
