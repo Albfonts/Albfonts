@@ -19,7 +19,7 @@
 - 📍 Aberto a **oportunidades remotas**
 - ⚡ Fato: *"Todo expert já foi iniciante"*
 
-<br>
+<br><br><br>
 
 ---
 
@@ -36,12 +36,9 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+![](https://komarev.com/ghpvc/?username=Albfonts&color=DD0031&style=for-the-badge&label=VISITAS+AO+PERFIL)
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Albfonts&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=DD0031&icon_color=DD0031&title_color=DD0031"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albfonts&layout=compact&langs_count=6&theme=tokyonight&border_color=DD0031&title_color=DD0031"/>
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=Albfonts&theme=tokyonight&border=DD0031&ring=DD0031&fire=DD0031)
 
 ---
 
