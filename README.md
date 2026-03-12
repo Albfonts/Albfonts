@@ -1,9 +1,3 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,100:DD0031&height=200&section=header&text=Daniel%20Albor%20Fontes&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Estudante%20de%20ADS%20%7C%20FAG%20%7C%20Cascavel%2C%20PR&descAlignY=58&descSize=18&animation=fadeIn)
-
-</div>
-
----
 
 <img align="right" alt="analytics gif" width="340" src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif"/>
 
@@ -47,10 +41,4 @@ Estatística
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albfont1040p@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Albfonts)
 
-</div>
-
----
-
-<div align="center">
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:0a0e1a&height=100&section=footer)
 </div>
