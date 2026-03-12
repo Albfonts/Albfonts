@@ -23,16 +23,6 @@
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
-
-### 📈 Jornada de aprendizado
-```text
-SQL          
-Python       
-Power BI     
-Estatística  
-```
-
 ### 📫 Contato
 
 <div align="center">
