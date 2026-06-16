@@ -1,104 +1,141 @@
 <div align="center">
 
-# Olá, eu sou Daniel Albor Fontes 👋
-### Estoquista → Futuro Analista de Dados | ADS • Python • SQL • Power BI
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:6366F1&height=120&section=header&text=Daniel%20Albor%20Fontes&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Albor%20Fontes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
-[![GitHub](https://img.shields.io/badge/GitHub-danielalbor-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO-AQUI)
+</div>
+
+<div align="center">
+
+### Analista de Dados em Formação
+`ADS · FAG` &nbsp;|&nbsp; `Python` &nbsp;|&nbsp; `SQL` &nbsp;|&nbsp; `Power BI`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SEU-USUARIO-AQUI)
+![Location](https://img.shields.io/badge/📍_Cascavel,_PR-Brasil-14532D?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-22C55E?style=flat-square)
 
 </div>
 
 ---
 
-## 🧭 Sobre Mim
+## `$ whoami`
 
-Sou cubano, tenho o espanhol como língua nativa e vivo em **Cascavel, Paraná, Brasil** — e foi aqui que descobri que minha verdadeira vocação está nos dados.
+```yaml
+Nome:       Daniel Albor Fontes
+Origem:     Cuba 🇨🇺  →  Cascavel, Paraná, Brasil 🇧🇷
+Idiomas:    Espanhol (nativo) · Português (fluente)
+Formação:   Análise e Desenvolvimento de Sistemas — FAG
+Foco:       Data Analytics · Business Intelligence · Data Engineering (futuro)
+```
 
-No meu dia a dia como **Estoquista**, opero o sistema ERP **Sabium** com uma missão que, no fundo, é a mesma de qualquer analista de dados: garantir que o **inventário físico bata exatamente com o digital**. Isso significa assegurar **integridade, consistência e qualidade dos dados operativos** — em tempo real, sem margem para erro.
-
-Esse trabalho me ensinou algo que nenhum curso ensina rápido: o custo real de um dado incorreto. E foi esse entendimento que me fez migrar com convicção para a área de tecnologia.
-
-Atualmente curso o **1º semestre de Análise e Desenvolvimento de Sistemas (ADS)** no Centro Universitário FAG, com foco em construir uma base técnica sólida em **bancos de dados relacionais, automação com Python e visualização de dados com Power BI**.
-
-> 🌎 **Vantagem estratégica:** fluência nativa em espanhol + português do dia a dia = perfil preparado para projetos com times internacionais e clientes da América Latina.
+> *"The goal is to turn data into information, and information into insight."*
+> — Carly Fiorina
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Stack & Ferramentas
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Linguagens & Consultas**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-**Visualização & BI**
+</td>
+<td valign="top" width="33%">
+
+**BI & Visualização**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Sistemas & Versionamento**
+</td>
+<td valign="top" width="33%">
+
+**Dev & Controle**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![ERP Sabium](https://img.shields.io/badge/ERP-Sabium-6B7280?style=flat-square&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top" colspan="3">
 
 **Aprendendo ativamente**
 
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Objetivo Profissional
+## Projetos
 
-Busco uma oportunidade de **estágio ou posição Junior** nas áreas de:
-
-- 📊 **Análise de Dados** — transformar dados brutos em insights acionáveis para o negócio
-- 📈 **Business Intelligence (BI)** — construção de dashboards, queries e relatórios estratégicos
-- 🗄️ **Engenharia de Dados** *(horizonte futuro)* — pipelines, modelagem e qualidade de dados em escala
-
-Trago como diferencial a combinação de **visão operacional real** (logística + ERP) com uma mentalidade analítica em construção. Sei o que significa depender de dados confiáveis para tomar decisões — e quero ser quem garante isso do lado técnico.
+| Projeto | Descrição | Stack |
+|--------|-----------|-------|
+| [`sql-queries-pratica`](https://github.com/SEU-USUARIO-AQUI) | Repositório de queries comentadas — JOINs, subqueries, agregações, otimização e modelagem relacional | `SQL` `PostgreSQL` |
+| [`dashboard-vendas-bi`](https://github.com/SEU-USUARIO-AQUI) | Dashboard analítico de vendas com KPIs, segmentação e visualização estratégica de dados | `Power BI` `Excel` `SQL` |
 
 ---
 
-## 📂 Em construção no GitHub
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| 🔄 `etl-estoque-local` | Pipeline ETL com dados de inventário simulados | Python · pandas · PostgreSQL |
-| 📊 `dashboard-vendas-bi` | Dashboard de análise de vendas | Power BI · Excel |
-| 🗄️ `sql-queries-pratica` | Repositório de queries SQL comentadas | SQL · PostgreSQL |
-
-> ⚠️ *Projetos em desenvolvimento — acompanhe as atualizações!*
-
----
-
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
-![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🤝 Conecte-se comigo
+## Objetivo Profissional
+
+```
+Busco estágio ou posição Junior em:
+
+  [1] Análise de Dados         →  queries · limpeza · insights · relatórios
+  [2] Business Intelligence    →  dashboards · KPIs · Power BI · SQL
+  [3] Engenharia de Dados      →  pipelines · modelagem · qualidade (horizonte futuro)
+```
+
+**O que trago de diferencial:**
+- Experiência prática com sistemas ERP e gestão de dados operacionais
+- Visão do impacto de dados incorretos no negócio — não só teoria
+- Fluência nativa em espanhol → atuação em projetos com América Latina
+- Base técnica sólida em ADS com foco aplicado em dados
+
+---
+
+## Conecte-se
 
 <div align="center">
 
-Estou aberto a conversas sobre dados, tecnologia, oportunidades de estágio e colaborações.
-
-[![LinkedIn](https://img.shields.io/badge/Vamos%20conversar%20no%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
-
-*"Os dados são o novo petróleo — e eu quero ser quem os refina."*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vamos_conversar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
 
 </div>
 
 ---
 
 <div align="center">
-<sub>📍 Cascavel, Paraná, Brasil &nbsp;|&nbsp; 🇨🇺 Cubano &nbsp;|&nbsp; 🎓 ADS - FAG &nbsp;|&nbsp; 💼 Open to work</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0F172A&height=80&section=footer" width="100%"/>
+
+<sub>📍 Cascavel, PR · 🇨🇺 Cubano · 🎓 ADS - FAG · 💼 Aberto a oportunidades em dados</sub>
+
 </div>
