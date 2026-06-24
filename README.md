@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <h3>👋 Olá, eu sou o Daniel! 📊✨</h3>
-  <p><i>Transformando dados logísticos em insights estratégicos e inteligência de negócios.</i></p>
-  <p><b>ADS · FAG &nbsp;|&nbsp; Python &nbsp;|&nbsp; SQL &nbsp;|&nbsp; Power BI</b></p>
+  <h3>👋 Olá, eu sou o Daniel! 🗄️⚡</h3>
+  <p><i>Especializando-se em Administração e Desenvolvimento de Bancos de Dados de Alta Performance.</i></p>
+  <p><b>ADS · FAG &nbsp;|&nbsp; SQL Server &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; Python (ETL)</b></p>
 </div>
 
 ---
@@ -13,40 +13,36 @@
 ### 👤 Sobre Mim
 
 * 🌍 **Origem:** Cuba 🇨🇺 → Vivendo e evoluindo em Cascavel, Paraná, Brasil 🇧🇷
-* 🗣️ **Idiomas:** Espanhol (Nativo) · Português (Fluente) — *Pronto para conexões internacionais!*
+* 🗣️ **Idiomas:** Espanhol (Nativo) · Português (Fluente) — *Pronto para times globais e conexões internacionais!*
 * 🎓 **Formação:** Graduando em Análise e Desenvolvimento de Sistemas (Centro Universitário FAG).
-* ⚙️ **Mentalidade:** Vindo do chão da área de logística manipulando sistemas ERP, aprendi que a integridade e a consistência do dado bruto são o pilar fundamental para qualquer tomada de decisão correta.
+* ⚙️ **Mentalidade:** Focado na integridade, consistência e alta disponibilidade dos dados. Entendo que uma arquitetura relacional bem otimizada e queries eficientes são a fundação para sistemas escaláveis de missão crítica.
 
-> "The goal is to turn data into information, and information into insight." — Carly Fiorina
+> "Data is precious and will last longer than the systems themselves." — Tim Berners-Lee
 
 ---
-
-
 
 ### 🚀 Stack Técnico & Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ERP_Sabium-0052CC?style=for-the-badge&logo=sap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
 
 <br>
 
-* 🗄️ **Banco de Dados:** Manipulação e consultas estruturadas com SQL e PostgreSQL.
-* 🐍 **Programação:** Desenvolvimento de scripts em Python com foco em automação e Pandas.
-* 📊 **Business Intelligence:** Construção de dashboards visuais no Power BI e relatórios em Excel Avançado.
-* 📦 **Sistemas Comerciais:** Experiência prática diária em validação de dados e estoque através do ERP Sabium.
-
+* 🗄️ **Database Development:** Domínio de SQL avançado, modelagem relacional (OLTP), construção de Stored Procedures, Triggers, Views e tratamento de concorrência.
+* 🛠️ **Database Administration (DBA):** Noções de backup/recovery, tuning de queries (Análise de Planos de Execução / EXPLAIN ANALYZE) e estratégias de indexação.
+* 🐍 **Data Pipelines:** Desenvolvimento de scripts em Python focado em processos de automação e manipulação de dados estruturados.
+* 🌐 **Especialidade Geográfica:** Noções em PostGIS para manipulação de dados espaciais e geoprocessamento.
 
 ---
 
@@ -61,22 +57,22 @@
 
 ### 🎯 Projetos em Destaque
 
-* 📝 **[sql-queries-pratica](https://github.com/Albfonts/sql-queries-pratica)** 🛠️: Repositório de queries reais comentadas. Do básico ao avançado: JOINS, subqueries, agregações e modelagem relacional limpa.
-* 📈 **[dashboard-vendas-bi](https://github.com/Albfonts/dashboard-vendas-bi)** 💸: Dashboard analítico e estratégico de performance de vendas com extração de KPIs essenciais para o negócio.
+* 🛠️ **[sql-queries-pratica](https://github.com/Albfonts/sql-queries-pratica)**: Repositório focado na resolução de problemas complexos de bancos de dados. Inclui otimização de consultas de alto custo, modelagem relacional, normalização (1NF, 2NF, 3NF) e indexação avançada.
+* 📡 **[telemetry-db-optimization](https://github.com/Albfonts/telemetry-db-optimization)** *(Em desenvolvimento)*: Projeto de simulação de banco de dados para alta carga de telemetria e IoT, aplicando conceitos de particionamento de tabelas e indexação BRIN/GiST.
 
 ---
 
 ### 🎯 Minha Missão & Objetivos
 
-* 🚀 **Foco Atual:** Dominando manipulação avançada de dados com Python/Pandas e otimização de queries SQL.
-* 🏁 **Objetivo Principal:** Conquistar uma oportunidade de **Estágio** ou posição **Junior** em Análise de Dados, BI ou áreas correlatas.
-* 🗺️ **Diferencial Estratégico:** Aplicar meu background em logística + fluência nativa em espanhol para somar em projetos internacionais voltados para a América Latina (como o mercado mexicano).
+* 🚀 **Foco Atual:** Performance tuning em queries complexas, administração de servidores de banco de dados (PostgreSQL/SQL Server) e gerenciamento de transações/locks.
+* 🏁 **Objetivo Principal:** Conquistar uma oportunidade de **Estágio** ou posição **Júnior** como Administrador de Bancos de Dados (DBA) ou Database Developer.
+* 🗺️ **Diferencial Estratégico:** Fluência nativa em espanhol aliada à mentalidade analítica de ADS para atuar com squads e arquiteturas de dados em projetos internacionais de grande porte.
 
 ---
 
 ### 🤝 Vamos Conectar!
 
-Pronto para trocar ideias sobre dados, BI, engenharia ou melhoria de processos? Me chama! ☕
+Pronto para discutir sobre otimização de bancos de dados, arquitetura relacional e engenharia? Vamos conversar! ☕
 
 <div align="center">
 
