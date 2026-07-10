@@ -1,70 +1,128 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=280&section=header&text=Daniel%20Albor&fontSize=70&fontColor=ffffff&animation=fadeIn&theme=transparent" width="100%" alt="Header Daniel Albor" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:081526,100:00C9A7&text=AgroDB%20Labs&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Daniel%20Albor%20Fontes%20•%20Future%20Database%20Administrator&descAlignY=60&animation=fadeIn"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=850&lines=Future+Database+Administrator;Building+AgroDB+Labs;SQL+%7C+PostgreSQL+%7C+Docker;Learning+in+Public)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+# 👋 Olá!
+
+Sou **Daniel Albor Fontes**, estudante de **Análise e Desenvolvimento de Sistemas** e fundador do projeto **AgroDB Labs**.
+
+Meu objetivo é construir uma carreira em **Administração de Bancos de Dados (DBA)**, desenvolvendo projetos práticos inspirados em desafios reais do agronegócio.
+
+---
+
+# 🎯 Missão
+
+> Construir conhecimento técnico de forma pública, documentando cada etapa da jornada para me tornar um Database Administrator.
+
+---
+
+# 🚀 Atualmente estudando
+
+- SQL
+- PostgreSQL
+- Docker
+- Git e GitHub
+- Modelagem de Dados
+- Administração de Banco de Dados
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
-  <a href="https://linkedin.com/in/tu-usuario-aqui">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0078D4&center=true&vCenter=true&width=500&lines=Database+Developer;Data+Analyst;Microsoft+Student+Ambassador;ADS+Student+%40+FAG" alt="Typing SVG" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/tu-usuario">
-    <img src="https://img.shields.io/badge/Microsoft%20Learn-Student%20Ambassador-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Student Ambassador" />
-  </a>
-  <a href="https://linkedin.com/in/tu-usuario-aqui">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postgresql"/>
+
 </p>
 
 ---
 
-## 🚀 Sobre Mí
+# 🌱 AgroDB Labs
 
-¡Hola! Soy estudiante de **Análise e Desenvolvimento de Sistemas (ADS)** en el Centro Universitário FAG y **Microsoft Learn Student Ambassador**. Actualmente me desempeño en el área de **Tech Operations**, garantizando la gobernanza, consistencia y sincronización de datos de alta demanda en sistemas ERP. 
+O **AgroDB Labs** é um laboratório de aprendizado.
 
-Mi enfoque principal está en la **infraestructura, modelado y optimización de bases de datos**, creando soluciones escalables y eficientes para conectar el flujo lógico con la realidad operativa.
+Cada projeto representa um problema de negócio resolvido utilizando banco de dados.
 
-* 🌍 **Ubicación:** Brasil / Hispanoamérica (Fluido en Español y Portugués)
-* ⚡ **Foco:** SQL Server, PostgreSQL, PostGIS, Inteligencia de Negocios (BI) y Optimización de Queries.
-* 👥 **Comunidad:** Liderando rutas de aprendizaje oficiales de Microsoft (DP-900 Azure Data Fundamentals).
+O foco não é apenas escrever consultas SQL, mas aprender como um DBA projeta, organiza e administra ambientes de dados.
 
 ---
 
-## 🛠️ Tech Stack & Herramientas
+# 📌 Projetos
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/PostGIS-339933?style=flat-square&logo=postgis&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+## 🌱 AgroDB Farm Database
+
+Banco de dados relacional para simulação de uma fazenda inteligente.
+
+Status
+
+🟢 Planejamento
 
 ---
 
-## 📈 Estadísticas e Impacto (Live Metrics)
+## 🐘 PostgreSQL Labs
+
+Coleção de exercícios e estudos utilizando PostgreSQL.
+
+Status
+
+🟡 Em desenvolvimento
+
+---
+
+## 🐳 Docker Labs
+
+Ambiente completo para execução de bancos de dados utilizando Docker.
+
+Status
+
+🟡 Em desenvolvimento
+
+---
+
+## 📊 SQL Challenges
+
+Coleção de consultas SQL para resolver problemas reais.
+
+Status
+
+🟡 Em desenvolvimento
+
+---
+
+# 📚 Objetivos de 2026
+
+- Aprender PostgreSQL profundamente
+- Dominar SQL
+- Construir projetos completos
+- Aprender Docker
+- Criar portfólio técnico
+- Publicar conteúdo no LinkedIn
+- Conquistar minha primeira oportunidade como DBA
+
+---
+
+# 🌎 Conecte-se comigo
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tu-usuario&theme=react-dark&bg_color=0d1117&color=0078D4&line=0078D4&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=transparent&title_color=0078D4&icon_color=0078D4&text_color=ffffff&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=transparent&title_color=0078D4&text_color=ffffff&hide_border=true" width="48%" alt="Top Languages" />
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 📂 Proyectos Destacados
+<div align="center">
 
-> ### 🛠️ [telemetry-db-optimization](https://github.com/tu-usuario/telemetry-db-optimization)
-> **Simulador de Telemetría IoT & Optimización Geográfica** > Proyecto enfocado en bases de datos masivas. Simulación de recepción de coordenadas geográficas en tiempo real provenientes de maquinaria agrícola en campo utilizando **PostgreSQL** y **PostGIS**, aplicando técnicas avanzadas de normalización, indexación y optimización de queries.
+### ⭐ Construindo conhecimento, um projeto de cada vez.
 
----
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=120&section=footer&theme=transparent" width="100%" alt="Footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:081526,100:00C9A7"/>
