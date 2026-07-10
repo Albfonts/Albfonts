@@ -1,5 +1,5 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:081526,100:14b8a6&text=AgroDB%20Labs&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Daniel%20Albor%20Fontes%20•%20Future%20Database%20Administrator&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:081526,100:14b8a6&text=AgroDB%20Labs&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Daniel%20Albor%20Fontes%20•%20Future%20Database%20Administrator&descAlignY=60"/>
 </p>
 
 <p align="center">
