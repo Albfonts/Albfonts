@@ -20,7 +20,7 @@
 
 Sou **Daniel Albor Fontes**, estudante de **Análise e Desenvolvimento de Sistemas**.
 
-Estou documentando publicamente minha evolução para me tornar um **Database Administrator (DBA)**, construindo projetos práticos inspirados em desafios reais do agronegócio.
+Construo projetos práticos de Banco de Dados inspirados em desafios reais do agronegócio, documentando toda a minha evolução como futuro Database Administrator.
 
 ---
 
